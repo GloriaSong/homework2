@@ -1,3 +1,27 @@
+h1 h2{
+     font-family: "Oswald", "Helvetica Neue", Arial, sans-serif;
+}
+
+
+h1{
+    font-size:60px;
+}
+h2{
+    font-size:40px;
+}
+
+.caption{
+    font-style: italic;
+    font-size:12px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    }
+
+.container{
+max-width: 960px;
+min-height:200px;
+}
+
+
 .reference
 {
     font-size: 18px;
