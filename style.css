@@ -21,8 +21,10 @@ h3{
 
 .caption{
     font-style: italic;
-    font-size:12px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-size:14px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right:10%;
+    margin-left:10%;
     }
 
 .container-fluid{
@@ -31,9 +33,11 @@ margin: 1em auto;
 }
 
 .text{
-    margin-top:20px;
-    margin-bottom: 20px;
+    margin-left: 5%;
+    margin-right:5%;
+    font-size:14px;
     
+
 }
 
 
